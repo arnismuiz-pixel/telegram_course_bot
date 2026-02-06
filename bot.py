@@ -3,8 +3,9 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery
 from aiogram.filters import CommandStart
 
-import os
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+# tikai šādi:
+BOT_TOKEN = "8536903164:AAFd7MZ4KpBJamcoTUajjHmdWzf1RfX-OxY"
+
 
 
 bot = Bot(token=BOT_TOKEN)

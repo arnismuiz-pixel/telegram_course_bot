@@ -4,7 +4,8 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, C
 from aiogram.filters import CommandStart
 
 # tikai šādi:
-BOT_TOKEN = "8536903164:AAFd7MZ4KpBJamcoTUajjHmdWzf1RfX-OxY"
+BOT_TOKEN = "8536903164:AAE1a344sfWP89ozEPpvHlsDWzMb0pEsab8"
+
 
 
 

@@ -4,7 +4,6 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, C
 from aiogram.filters import CommandStart
 
 import os
-
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
 
